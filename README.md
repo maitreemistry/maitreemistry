@@ -29,7 +29,8 @@
 - **[QR Code Generator](https://github.com/maitreemistry/qr-code-generator)** – A simple tool to generate QR codes.  
 - **[Barcode Generator](https://github.com/maitreemistry/barcode-generator)** – A tool to generate barcodes.  
 - **[Sentiment Analysis in Python](https://github.com/maitreemistry/sentiment-analysis-python)** – Analyzing sentiments from text data.  
-- **[Registration Form with JavaScript Validation](https://github.com/maitreemistry/registration-form-javascript-validation)** – A user registration form with client-side validation.  
+- **[Registration Form with JavaScript Validation](https://github.com/maitreemistry/registration-form-javascript-validation)** – A user registration form with client-side validation.
+- **[8086 Assembly Codes](https://github.com/maitreemistry/example-reference-8086-online-emulator-codes)** – A collection of 8086 emulator codes for learning assembly language programming.    
 - More projects on the way! 🚧  
 
 ---
