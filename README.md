@@ -19,8 +19,8 @@
 ### 🛠️ Tech Stack
 💻 **Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, PHP, MySQL  
 🌐 **Web Development**: HTML, CSS, JS, PHP, jQuery  
-🟡 **IoT & Embedded**: Arduino, Raspberry Pi, MQTT, NodeMCU  
-🛠 **Tools & Platforms**: Git, GitHub, Firebase, PyAutoGUI, BeautifulSoup  
+🟡 **IoT & Embedded**: Arduino 
+🛠 **Tools & Platforms**: Git, GitHub, PyAutoGUI, BeautifulSoup  
 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, MVC  
 
 ---
