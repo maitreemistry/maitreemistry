@@ -17,11 +17,11 @@
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages**: Python, C, C++, Java, MySQL  
-🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
-🟡 **IoT & Embedded**: Arduino, ESP32
-🛠 **Tools & Platforms**: Git, GitHub 
-🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, MVC  
+- 💻 **Languages**: Python, C, C++, Java, MySQL  
+- 🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
+- 🟡 **IoT & Embedded**: Arduino, ESP32
+- 🛠 **Tools & Platforms**: Git, GitHub 
+- 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, MVC  
 
 ---
 
