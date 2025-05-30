@@ -9,7 +9,7 @@
 ### 💡 About Me
 - 🎓 Pursuing **B.Tech in Computer Engineering** at **Pandit Deendayal Energy University** (2023 - 2027)  
 - 💡 Minor in **Internet of Things (IoT)**  
-- 📚 Attended technical workshops, completed online courses, and participated in hackathons  
+- 📚 Attended technical workshops, completed online courses and participated in hackathons  
 - 💻 Web Development Intern at **Atul Limited** (June 2024 - July 2024)  
 - ✍️ Co-Author of the book **"Words of the Silent Souls"** (Published: October 2024)  
 - 📍 Based in **Valsad, Gujarat**
@@ -18,9 +18,9 @@
 
 ### 🛠️ Tech Stack
 💻 **Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, PHP, MySQL  
-🌐 **Web Development**: HTML, CSS, JS, PHP, jQuery  
-🟡 **IoT & Embedded**: Arduino 
-🛠 **Tools & Platforms**: Git, GitHub, PyAutoGUI, BeautifulSoup  
+🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
+🟡 **IoT & Embedded**: Arduino, ESP32
+🛠 **Tools & Platforms**: Git, GitHub 
 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, MVC  
 
 ---
@@ -41,4 +41,4 @@
 
 ---
 
-🌟 **"Learning never stops, and neither does innovation!"**  
+🌟 **Learning never stops and neither does innovation!**  
