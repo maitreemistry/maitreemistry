@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maitree Mistry! 👋</h1>
 
 <p align="center">
-  🚀 Computer Engineering Student | 🔗 IoT Enthusiast | ✍️ Poet  
+  🚀 Computer Engineering Student | 💻 Web Development | 🔗 IoT Enthusiast | ✍️ Poet  
 </p>
 
 ---
