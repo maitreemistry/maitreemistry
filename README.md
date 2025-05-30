@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, PHP, MySQL  
+💻 **Languages**: Python, C, C++, Java, MySQL  
 🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
 🟡 **IoT & Embedded**: Arduino, ESP32
 🛠 **Tools & Platforms**: Git, GitHub 
