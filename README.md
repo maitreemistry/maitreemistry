@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maitree Mistry! 👋</h1>
 
 <p align="center">
-  🚀 Computer Engineering Student | 💻 Web Development | 🔗 IoT Enthusiast | ✍️ Poet  
+  🚀 Computer Engineering Student | 💻 Web Development | 🔗 IoT | ✍️ Poet  
 </p>
 
 ---
@@ -10,7 +10,9 @@
 - 🎓 Pursuing **B.Tech in Computer Engineering** at **Pandit Deendayal Energy University** (2023 - 2027)  
 - 💡 Minor in **Internet of Things (IoT)**  
 - 📚 Attended technical workshops, completed online courses and participated in hackathons  
-- 💻 Web Development Intern at **Atul Limited** (June 2024 - July 2024)  
+- 💻 Web Development Intern at **Atul Limited** (June 2024 - July 2024)
+- 💡 Participated JPMorganChase Code for Good, Mumbai 2025
+- 💻 Machine Learning Intern at **BosLeo** (June 2025 - July 2025) 
 - ✍️ Co-Author of the book **"Words of the Silent Souls"** (Published: October 2024)  
 - 📍 Based in **Valsad, Gujarat**
 
@@ -21,7 +23,7 @@
 - 🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
 - 🟡 **IoT & Embedded**: Arduino, ESP32
 - 🛠 **Tools & Platforms**: Git, GitHub 
-- 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, MVC  
+- 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, Database Management System  
 
 ---
 
