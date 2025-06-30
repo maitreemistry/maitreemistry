@@ -27,6 +27,13 @@
 
 ---
 
+### 📈 My GitHub Overview
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maitreemistry&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maitreemistry&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitreemistry&layout=compact&theme=radical)
+
+---
+
 ### 🚀 Projects
 - **[QR Code Generator](https://github.com/maitreemistry/qr-code-generator)** – A simple tool to generate QR codes.  
 - **[Barcode Generator](https://github.com/maitreemistry/barcode-generator)** – A tool to generate barcodes.  
