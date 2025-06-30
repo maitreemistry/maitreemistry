@@ -44,3 +44,6 @@
 ---
 
 🌟 **Learning never stops and neither does innovation!**  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maitreemistry.maitreemistry)
+
