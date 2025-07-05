@@ -37,7 +37,7 @@
 
 ### 🚀 Projects
 - **[Inventory Management System](https://github.com/maitreemistry/inventory-management-system)** – A platform for your inventory.
-- - **[Event Management Platform](https://github.com/maitreemistry/event-management-platform)** – A platform for all your events.  
+- **[Event Management Platform](https://github.com/maitreemistry/event-management-platform)** – A platform for all your events.  
 - **[QR Code Generator](https://github.com/maitreemistry/qr-code-generator)** – A simple tool to generate QR codes.  
 - **[Barcode Generator](https://github.com/maitreemistry/barcode-generator)** – A tool to generate barcodes.  
 - **[Sentiment Analysis in Python](https://github.com/maitreemistry/sentiment-analysis-python)** – Analyzing sentiments from text data.  
