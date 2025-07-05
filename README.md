@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 - 💻 **Languages**: Python, C, C++, Java, MySQL  
-- 🌐 **Web Development**: HTML, CSS, JS, PHP, TypeScript, Next.js  
+- 🌐 **Web Development**: HTML, CSS, JavaScript, PHP, TypeScript, Next.js, MERN  
 - 🟡 **IoT & Embedded**: Arduino, ESP32
 - 🛠 **Tools & Platforms**: Git, GitHub 
 - 🌟 **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, Database Management System  
