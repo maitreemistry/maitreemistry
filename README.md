@@ -40,7 +40,7 @@ const maitreemistry = {
 <td>
 
 **🔬 Machine Learning Intern**  
-*BosLeo* | June 2025 - July 2025  
+*BosLeo Technology Private Limited* | June 2025 - July 2025  
 - Working on ML algorithms and data analysis
 - Developing predictive models
 
