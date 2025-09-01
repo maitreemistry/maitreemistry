@@ -27,7 +27,7 @@ const maitreemistry = {
     activities: [
         "Attended technical workshops & completed online courses",
         "Participated in hackathons",
-        "ACM-PDEU, GDG-PDEU, CSI-PDEU, SnT-PDEU"
+        "ACM-PDEU, CSI-PDEU, Encode-PDEU"
     ],
     funFact: "I turn coco and tea into code and thoughts into poetry! ☕️✍️"
 };
